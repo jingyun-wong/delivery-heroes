@@ -8,7 +8,7 @@ The DeliveryHeroes platform will allow food delivery riders to check on availabl
 
 For the general public, they are also able to use this DeliveryHeroes platform to share encouraging messages and stories in their interactions with delivery riders, and keep their morale high. Furthermore, those that would like to contribute in creating a rest stop can create new rest stops to feature them on our platform for delivery riders to use.
 
-## 🤓 Features of Delivery Heroes (How to Use Our Web Application) ##
+## 🤓 Features of Delivery Heroes ##
 ### Delivery Riders :motorcycle: ###
 
 #### Home Page ####
