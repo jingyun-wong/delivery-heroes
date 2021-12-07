@@ -13,29 +13,29 @@ For the general public, they are also able to use this DeliveryHeroes platform t
 
 #### Home Page ####
 * Check 2-hour weather forecast 
-<img width="315" src="https://github.com/is216-supreme/is216-project-group27/blob/main/images/weather-sample.JPG">
+<img width="315" src="https://github.com/jingyun-wong/delivery-heroes/blob/main/images/weather-sample.JPG">
 
 * Read appreciation messages from the general public
-<img width="515" src="https://github.com/is216-supreme/is216-project-group27/blob/main/images/message-sample.JPG">
+<img width="515" src="https://github.com/jingyun-wong/delivery-heroes/blob/main/images/message-sample.JPG">
 
 #### Carparks ####
 * Search for nearby carpark by allowing access to current location or searching the location you are going to 
 * Check the carpark prices (shopping malls) and grace period (hdb)
-<img width="515" src="https://github.com/is216-supreme/is216-project-group27/blob/main/images/map-sample.JPG">
+<img width="515" src="https://github.com/jingyun-wong/delivery-heroes/blob/main/images/map-sample.JPG">
 
 #### Rest Stops ####
 * Find rest stops near your area 
 * Search the location using the search bar
 * Filter the location according to your preferences 
-<img width="515" src="https://github.com/is216-supreme/is216-project-group27/blob/main/images/rest_stop-sample.JPG">
+<img width="515" src="https://github.com/jingyun-wong/delivery-heroes/blob/main/images/rest_stop-sample.JPG">
 
 ### General Public :family_woman_woman_boy_boy: ###
 
 #### Home Page ####
 * Post encouraging messages to the delivery riders
-<img width="515" src="https://github.com/is216-supreme/is216-project-group27/blob/main/images/share-msg-sample.png">
+<img width="515" src="https://github.com/jingyun-wong/delivery-heroes/blob/main/images/share-msg-sample.png">
 
 #### Rest Stops ####
 * Post any rest stops you found for the delivery riders to rest and take a break
-<img width="415" src="https://github.com/is216-supreme/is216-project-group27/blob/main/images/share-reststop-sample.png">
+<img width="415" src="https://github.com/jingyun-wong/delivery-heroes/blob/main/images/share-reststop-sample.png">
 
