@@ -1,5 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=453547&assignment_repo_type=GroupAssignmentRepo)
 # :wave: DELIVERY HEROES
+## Website Link ## 
+https://relaxed-noether-1cb1fb.netlify.app/
+
 ## 🤓 Project Overview ##
 DeliveryHeroes is a web application built to serve all food delivery riders in Singapore. Ever since COVID-19 started, there has been a surge in demand for food deliveries due to the strict dine-in restrictions, and thus also a derived increase in demand for food delivery riders. 
 As such, there has been an increase in the number of reports of abuse from customers towards these unsung heroes. However, there are also reports of various acts of kindness by the general pubic towards these delivery riders, such as setting up rest stops in various community locations for riders to take a breather. As such, our team thought that creating this web application would serve as a platform to aid these delivery riders in their work. 
